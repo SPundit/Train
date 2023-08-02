@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Five_CarParking {
     public static void main(String[] args) {
-        Scanner scan=new Scanner(System.in);
+        Scanner scan=new Scanner(System.in);i
         int rows=scan.nextInt(), columns=scan.nextInt();
         int sum=0, maxSum=0, maxRow=0;
         for(int i=0; i<rows; i++){
